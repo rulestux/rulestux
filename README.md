@@ -4,6 +4,10 @@
   <em>LPIC-1 Linux Administrator Certified | Systems Analysis and Development | Transitioning from Humanities to Tech</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/rulestux/rulestux/blob/main/TuxThumbsUp.gif" width="400px"/>
+</p>
+
 ---
 
 <p align="center">
