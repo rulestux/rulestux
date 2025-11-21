@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  In this space, you will find my practice projects in Bash, Java, PHP, and everything else I love about the Tech World!
+  In this space, you will find my practice projects in Bash, Java, PHP, and everything else I love about the Tech World.
 </p>
 
 <p align="center">
