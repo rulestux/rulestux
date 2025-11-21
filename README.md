@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/rulestux/rulestux/blob/main/TuxThumbsUp.gif" width="200px"/>
+  <img src="https://github.com/rulestux/rulestux/blob/main/TuxThumbsUp.gif" width="300px"/>
 </p>
 
 ---
