@@ -12,6 +12,9 @@
 
 <p align="center">
   In this space, you will find my practice projects in Bash, Java, PHP, and everything else I love about the Tech World!
+</p>
+
+<p align="center">
   This profile is open to new collaborations and learning opportunities. Be welcome!
 </p>
 
