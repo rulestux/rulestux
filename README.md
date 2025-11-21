@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Jean Felipe 👋</h1>
+<h1 align="center">Hello, I'm Jean Felipe, and Tux rules! 👋</h1>
 
 <p align="center">
   <em>LPIC-1 Linux Administrator Certified | Systems Analysis and Development | Transitioning from Humanities to Tech</em>
