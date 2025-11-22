@@ -29,7 +29,7 @@
 ### 🧠 About Me
 *I discovered a passion for Linux, Software Development, and Cloud Computing. Because of this:*
   - 🏆 I have earned a **Linux Professional Certification — LPIC-1: Linux Administrator**;
-  - 🔭 currently, I'm preparing to earn my first **AWS certification**;
+  - 🔭 currently, I'm preparing to earn my first **AWS Certification**;
   - 👨🏽‍🎓 and I'm pursuing a degree in **Systems Analysis and Development**.
 
 ---
