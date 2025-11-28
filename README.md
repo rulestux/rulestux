@@ -38,13 +38,9 @@
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulestux&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-  <!--
-  <img src="
-    username=rulestux&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-  -->
 </div>
 
 <div align="center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117" />
 </div>
 
