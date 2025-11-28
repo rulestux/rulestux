@@ -18,12 +18,6 @@
   This profile is open to new collaborations and learning opportunities. Be welcome!
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jean-felipe-676a68371/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ### ✍️ About Me
@@ -31,6 +25,12 @@
   - 🏆 I have earned a **Linux Professional Certification — LPIC-1: Linux Administrator**;
   - 🔭 currently, I'm preparing to earn my first **AWS Certification**;
   - 🎓 and I'm pursuing a degree in **Systems Analysis and Development**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jean-felipe-676a68371/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
