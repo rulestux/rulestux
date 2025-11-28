@@ -26,20 +26,24 @@
 
 ---
 
-### 🧠 About Me
+### ✍️ About Me
 *I discovered a passion for Linux, Software Development, and Cloud Computing. Because of this:*
   - 🏆 I have earned a **Linux Professional Certification — LPIC-1: Linux Administrator**;
   - 🔭 currently, I'm preparing to earn my first **AWS Certification**;
-  - 👨🏽‍🎓 and I'm pursuing a degree in **Systems Analysis and Development**.
+  - 🎓 and I'm pursuing a degree in **Systems Analysis and Development**.
 
 ---
 
-### ⚙️ Tech Stack Highlights
-
-<p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117" />
-</p>
+### 🔧 Tech Stack Highlights
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulestux&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### ⚙️ Commit Energy
+
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117" />
 </p>
