@@ -45,6 +45,6 @@
 </div>
 
 <div align="center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117"/>
 </div>
 
