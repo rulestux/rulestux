@@ -36,11 +36,10 @@
 
 ### ⚙️ Tech Stack Highlights
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulestux&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-<div align="center">
+<p align="center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117" />
-</div>
+</p>
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulestux&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
