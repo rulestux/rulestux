@@ -37,7 +37,9 @@
 ### 🔧 Tech Stack Highlights
 
 <p align="center">
-<img width="40%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=rulestux&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+  
+  <img width="40%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=rulestux&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
 </p>
 
 ---
@@ -45,5 +47,7 @@
 ### ⚙️ Commit Energy
 
 <p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rulestux&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  
 </p>
