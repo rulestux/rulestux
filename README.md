@@ -37,7 +37,8 @@
 ### 🔧 Tech Stack Highlights
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulestux&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+<img width="30%" 
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=rulestux&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
 ---
