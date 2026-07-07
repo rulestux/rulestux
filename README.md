@@ -21,10 +21,15 @@
 ---
 
 ### ✍️ About Me
-*I discovered a passion for Linux, Software Development, and Cloud Computing. Because of this:*
-  - 🏆 I have earned a **Linux Professional Certification — LPIC-1: Linux Administrator**;
-  - 🔭 currently, I'm preparing to earn my first **AWS Certification**;
-  - 🎓 and I'm pursuing a degree in **Systems Analysis and Development**.
+
+I am passionate about Linux, systems administration, networking, and free and open-source software.
+
+Currently, I am building my career by combining academic education, industry certifications, and hands-on projects.
+
+- 🏆 LPIC-1 Certified Linux Administrator
+- ☁️ AWS Certified Cloud Practitioner
+- 🌐 Postgraduate Specialist in Structured Computer Networks
+- 🎓 Systems Analysis and Development Student
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jean-felipe-676a68371/">
