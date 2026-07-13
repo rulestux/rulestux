@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Jean Felipe, and Tux rules!</h1>
 
 <p align="center">
-  <em>LPIC-1 Linux Administrator Certified · AWS Certified Cloud Practitioner · Systems Analysis and Development · Structured Computer Networks Especialist</em>
+  <em>LPIC-1 Linux Administrator Certified · AWS Certified Cloud Practitioner · Structured Computer Networks Especialist</em>
 </p>
 
 <p align="center">
